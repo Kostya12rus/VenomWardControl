@@ -1,5 +1,5 @@
 local VenomWardControl = {}
-VenomWardControl.optionEnable = Menu.AddOption({"Kostya12rus", "Venomanser Ward Control"}, "Script On/Off", "")
+VenomWardControl.optionEnable = Menu.AddOption({"Utility", "Venomanser Ward Control"}, "Script On/Off", "")
 --VenomWardControl.FarmMod = Menu.AddOption({"Kostya12rus", "Venomanser Ward Control"}, "Farm Mod", "")
 --VenomWardControl.Font = Renderer.LoadFont("Tahoma", 14, Enum.FontWeight.EXTRABOLD)
 
